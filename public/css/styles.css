@@ -1,14 +1,15 @@
-*{
-    margin: 0px;
-}
 
+*{
+    margin:0px
+}
 .header{
     display: flex;
     justify-content: space-between;
-    background-color: lightcoral;
-    color: white;
-    padding: 10px;
+    background-color: teal;
+    color:white;
+    padding:10px
 }
+
 .header li{
     display: inline-block;
     padding: 5px;
